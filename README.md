@@ -89,7 +89,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For questions or feedback, reach out to [your-team-email@example.com] or open an issue on GitHub.
+For questions or feedback, reach out to [parulbhatnagar@gmail.com] or open an issue on GitHub.
 
 ## Acknowledgments
 - IBM Call for Code for providing the platform and Watsonx tools.
